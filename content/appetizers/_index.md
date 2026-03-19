@@ -1,6 +1,6 @@
 ---
 title: Appetizers
-weight: 1
+weight: 2
 icon: https://ct.ttmenus.com/icons/food/icon-wontons.webp
 ---
 
