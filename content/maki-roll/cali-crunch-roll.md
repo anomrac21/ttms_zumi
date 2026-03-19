@@ -1,5 +1,7 @@
 ---
 title: Cali Crunch Roll
+images:
+  - image: "images/cali-crunch-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

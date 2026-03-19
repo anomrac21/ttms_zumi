@@ -1,5 +1,7 @@
 ---
 title: Kake-Age
+images:
+  - image: "images/kake-age.png"
 prices:
   - variable1: "-"
     variable2: "-"

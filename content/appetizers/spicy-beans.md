@@ -1,5 +1,7 @@
 ---
 title: Spicy Beans
+images:
+  - image: "images/spicy-beans.png"
 prices:
   - variable1: "-"
     variable2: "-"

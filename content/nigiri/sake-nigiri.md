@@ -1,5 +1,7 @@
 ---
 title: Sake Nigiri
+images:
+  - image: "images/sake-nigiri.png"
 prices:
   - variable1: "-"
     variable2: "-"

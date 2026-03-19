@@ -11,5 +11,5 @@ ingredients:
   - Avocado
 cookingmethods: []
 types: []
-weight: 2
+weight: 15
 ---

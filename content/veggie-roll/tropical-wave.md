@@ -1,5 +1,7 @@
 ---
 title: Tropical Wave
+images:
+  - image: "images/tropical-wave.png"
 prices:
   - variable1: "-"
     variable2: "-"

@@ -1,5 +1,7 @@
 ---
 title: Maguro Nigiri
+images:
+  - image: "images/maguro-nigiri.png"
 prices:
   - variable1: "-"
     variable2: "-"

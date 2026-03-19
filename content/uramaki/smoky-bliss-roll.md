@@ -1,5 +1,7 @@
 ---
 title: Smoky Bliss Roll
+images:
+  - image: "images/smoky-bliss-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

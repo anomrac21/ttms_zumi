@@ -1,5 +1,7 @@
 ---
 title: Kani Sashimi
+images:
+  - image: "images/kani-sashimi.png"
 prices:
   - variable1: "-"
     variable2: "-"

@@ -1,5 +1,7 @@
 ---
 title: Zumi Chefs Roll
+images:
+  - image: "images/zumi-chefs-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

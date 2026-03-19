@@ -1,5 +1,7 @@
 ---
 title: Edamame Beans
+images:
+  - image: "images/edamame-beans.png"
 prices:
   - variable1: "-"
     variable2: "-"

@@ -1,5 +1,7 @@
 ---
 title: Spicy Tuna Crunch
+images:
+  - image: "images/spicy-tuna-crunch.png"
 prices:
   - variable1: "-"
     variable2: "-"

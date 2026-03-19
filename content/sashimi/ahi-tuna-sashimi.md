@@ -1,5 +1,7 @@
 ---
 title: Ahi Tuna Sashimi
+images:
+  - image: "images/ahi-tuna-sashimi.png"
 prices:
   - variable1: "-"
     variable2: "-"

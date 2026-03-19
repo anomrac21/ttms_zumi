@@ -1,5 +1,7 @@
 ---
 title: Las Vegas Roll
+images:
+  - image: "images/las-vegas-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

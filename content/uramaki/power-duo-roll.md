@@ -1,5 +1,7 @@
 ---
 title: Power Duo Roll
+images:
+  - image: "images/power-duo-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

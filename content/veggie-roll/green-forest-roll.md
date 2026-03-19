@@ -1,5 +1,7 @@
 ---
 title: Green Forest Roll
+images:
+  - image: "images/green-forest-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

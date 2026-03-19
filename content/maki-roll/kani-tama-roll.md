@@ -1,5 +1,7 @@
 ---
 title: Kani Tama Roll
+images:
+  - image: "images/kani-tama-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

@@ -1,5 +1,7 @@
 ---
 title: Sake Sashimi
+images:
+  - image: "images/sake-sashimi.png"
 prices:
   - variable1: "-"
     variable2: "-"

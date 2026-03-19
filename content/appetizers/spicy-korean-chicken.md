@@ -1,5 +1,7 @@
 ---
 title: Spicy Korean Chicken
+images:
+  - image: "images/spicy-korean-chicken.png"
 prices:
   - variable1: "-"
     variable2: "-"

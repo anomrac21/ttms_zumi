@@ -1,5 +1,7 @@
 ---
 title: Mount Fuji Roll
+images:
+  - image: "images/mount-fuji-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

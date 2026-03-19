@@ -1,5 +1,7 @@
 ---
 title: Niwatori Gyoza
+images:
+  - image: "images/niwatori-gyoza.png"
 prices:
   - variable1: "-"
     variable2: "-"

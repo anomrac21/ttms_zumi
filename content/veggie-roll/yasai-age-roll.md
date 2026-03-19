@@ -1,5 +1,7 @@
 ---
 title: Yasai-Age Roll
+images:
+  - image: "images/yasai-age-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

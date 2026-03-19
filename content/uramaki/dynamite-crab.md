@@ -1,5 +1,7 @@
 ---
 title: Dynamite Crab
+images:
+  - image: "images/dynamite-crab.png"
 prices:
   - variable1: "-"
     variable2: "-"

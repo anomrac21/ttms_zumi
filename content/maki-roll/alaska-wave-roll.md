@@ -1,5 +1,7 @@
 ---
 title: Alaska Wave Roll
+images:
+  - image: "images/alaska-wave-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

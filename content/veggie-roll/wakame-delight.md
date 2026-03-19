@@ -1,5 +1,7 @@
 ---
 title: Wakame Delight
+images:
+  - image: "images/wakame-delight.png"
 prices:
   - variable1: "-"
     variable2: "-"

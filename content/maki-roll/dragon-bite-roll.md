@@ -1,5 +1,7 @@
 ---
 title: Dragon Bite Roll
+images:
+  - image: "images/dragon-bite-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

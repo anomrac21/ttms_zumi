@@ -1,5 +1,7 @@
 ---
 title: Hurricane Shrimp Roll
+images:
+  - image: "images/hurricane-shrimp-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

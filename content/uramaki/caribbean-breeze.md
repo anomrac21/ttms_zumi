@@ -1,5 +1,7 @@
 ---
 title: Caribbean Breeze
+images:
+  - image: "images/caribbean-breeze.png"
 prices:
   - variable1: "-"
     variable2: "-"

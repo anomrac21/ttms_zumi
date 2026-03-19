@@ -1,5 +1,7 @@
 ---
 title: Fries
+images:
+  - image: "images/fries.png"
 prices:
   - variable1: "-"
     variable2: "-"

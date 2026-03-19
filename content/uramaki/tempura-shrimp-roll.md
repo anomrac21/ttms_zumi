@@ -1,5 +1,7 @@
 ---
 title: Tempura Shrimp Roll
+images:
+  - image: "images/tempura-shrimp-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

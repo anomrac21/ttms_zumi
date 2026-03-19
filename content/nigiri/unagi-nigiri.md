@@ -1,5 +1,7 @@
 ---
 title: Unagi Nigiri
+images:
+  - image: "images/unagi-nigiri.png"
 prices:
   - variable1: "-"
     variable2: "-"

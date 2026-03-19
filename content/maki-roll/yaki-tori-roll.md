@@ -1,5 +1,7 @@
 ---
 title: Yaki Tori Roll
+images:
+  - image: "images/yaki-tori-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

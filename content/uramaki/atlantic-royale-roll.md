@@ -1,5 +1,7 @@
 ---
 title: Atlantic Royale Roll
+images:
+  - image: "images/atlantic-royale-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

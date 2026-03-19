@@ -1,5 +1,7 @@
 ---
 title: Fire Kiss Tuna Nigiri
+images:
+  - image: "images/fire-kiss-tuna-nigiri.png"
 prices:
   - variable1: "-"
     variable2: "-"

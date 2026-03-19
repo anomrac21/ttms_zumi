@@ -1,5 +1,7 @@
 ---
 title: Ahi Tuna Maki
+images:
+  - image: "images/ahi-tuna-maki.png"
 prices:
   - variable1: "-"
     variable2: "-"

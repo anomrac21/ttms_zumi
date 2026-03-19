@@ -1,5 +1,7 @@
 ---
 title: Abura-Age Roll
+images:
+  - image: "images/abura-age-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

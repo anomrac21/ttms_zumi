@@ -1,5 +1,7 @@
 ---
 title: Shiojin Roll
+images:
+  - image: "images/shiojin-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

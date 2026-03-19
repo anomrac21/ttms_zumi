@@ -1,5 +1,7 @@
 ---
 title: Hot Chick Roll
+images:
+  - image: "images/hot-chick-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

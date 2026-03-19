@@ -1,5 +1,7 @@
 ---
 title: Crunchy Shrimp Roll
+images:
+  - image: "images/crunchy-shrimp-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

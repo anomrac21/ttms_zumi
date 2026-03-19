@@ -1,5 +1,7 @@
 ---
 title: Atsu-Age
+images:
+  - image: "images/atsu-age.png"
 prices:
   - variable1: "-"
     variable2: "-"

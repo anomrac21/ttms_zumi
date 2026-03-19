@@ -1,5 +1,7 @@
 ---
 title: Hiyashi Wakame
+images:
+  - image: "images/hiyashi-wakame.png"
 prices:
   - variable1: "-"
     variable2: "-"

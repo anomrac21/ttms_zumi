@@ -1,5 +1,7 @@
 ---
 title: Tempura Shrimp
+images:
+  - image: "images/tempura-shrimp.png"
 prices:
   - variable1: "-"
     variable2: "-"

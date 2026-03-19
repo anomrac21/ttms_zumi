@@ -1,5 +1,7 @@
 ---
 title: Smoken Salmon Roll
+images:
+  - image: "images/smoken-salmon-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"

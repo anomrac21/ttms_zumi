@@ -1,5 +1,7 @@
 ---
 title: Niwatori Roll
+images:
+  - image: "images/niwatori-roll.png"
 prices:
   - variable1: "-"
     variable2: "-"
