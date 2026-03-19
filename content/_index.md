@@ -1,4 +1,3 @@
 ---
-title: ""
 ---
-<p>TTMenus Menu System.</p>
+<p>Zumi Sushi & More – fresh sushi and Japanese-inspired cuisine.</p>

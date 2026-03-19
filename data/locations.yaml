@@ -2,47 +2,50 @@ locations:
   - address: "Southern Main Road"
     city: "Chaguanas"
     island: "Trinidad"
-    latlon: [10.509345,-61407625193110208.000000]
+    latlon: [10.509345, -61.407625]
     phone: "18687933358"
     whatsapp: "18687933358"
-    subcategories: []
-    orderingtables: []
-    delivery:
+    subcategories:
+      - Restaurant
+    orderingtables:
+      - Takeaway Only
+      - Dine In
+    delivery: {}
     opening_hours:
       mode: "Auto"
       sun:
         - type: "Open"
-          time: "11:00"
+          time: "10:00"
         - type: "Close"
-          time: "22:00"
+          time: "20:00"
       mon:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "20:00"
       tue:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "20:00"
       wed:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "20:00"
       thu:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "20:00"
       fri:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "20:00"
       sat:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "20:00"
 
