@@ -89,7 +89,7 @@ baseURL = 'https://zumi.ttmenus.com/'
     phone = 18687933358
 
 [params.services]
-    analyticsid = 19
+    analyticsid = 28
     notifications = true
 
 [params.social]
