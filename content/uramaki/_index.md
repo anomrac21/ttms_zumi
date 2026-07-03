@@ -1,7 +1,9 @@
 ---
 title: Uramaki
-weight: 5
-icon: https://ct.ttmenus.com/icons/food/icon-sushi.webp
+weight: 6
+icon: images/cali-crunch-roll.png
+images:
+    primary: images/cali-crunch-roll.png
 ---
 
 Inside-out rolls with rice on the outside.

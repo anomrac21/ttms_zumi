@@ -1,7 +1,9 @@
 ---
 title: Nigiri
-weight: 3
-icon: https://ct.ttmenus.com/icons/food/icon-sushi.webp
+weight: 4
+icon: images/maguro-nigiri.png
+images:
+    primary: images/maguro-nigiri.png
 ---
 
 Hand-pressed sushi rice with premium toppings.

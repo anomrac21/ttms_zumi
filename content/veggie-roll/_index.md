@@ -1,7 +1,9 @@
 ---
 title: Veggie Roll
-weight: 6
-icon: https://ct.ttmenus.com/icons/food/icon-sushi.webp
+weight: 7
+icon: images/green-forest-roll.png
+images:
+    primary: images/green-forest-roll.png
 ---
 
 Vegetarian sushi rolls.

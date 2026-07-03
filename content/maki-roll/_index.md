@@ -1,7 +1,9 @@
 ---
 title: Maki Roll
-weight: 4
-icon: https://ct.ttmenus.com/icons/food/icon-sushi.webp
+weight: 5
+icon: images/ahi-tuna-maki.png
+images:
+    primary: images/ahi-tuna-maki.png
 ---
 
 Traditional rolled sushi with seaweed on the outside.

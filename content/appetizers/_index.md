@@ -1,7 +1,9 @@
 ---
 title: Appetizers
 weight: 2
-icon: https://ct.ttmenus.com/icons/food/icon-wontons.webp
+icon: images/niwatori-gyoza.png
+images:
+    primary: images/niwatori-gyoza.png
 ---
 
 Starters to begin your meal.

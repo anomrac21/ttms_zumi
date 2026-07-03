@@ -1,7 +1,9 @@
 ---
 title: Sashimi
-weight: 2
-icon: https://ct.ttmenus.com/icons/food/icon-sashimi.webp
+weight: 3
+icon: images/ahi-tuna-sashimi.png
+images:
+    primary: images/ahi-tuna-sashimi.png
 ---
 
 Thinly sliced fresh fish served with sauce, condiments, and garnishes.
